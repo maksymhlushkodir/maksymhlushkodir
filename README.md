@@ -14,10 +14,7 @@ Consider using icons (badges) here for a visual effect.
 | **Version Control** | Git |
 | **IDEs** | IntelliJ IDEA / PyCharm (JetBrains products) |
 
-> **💡 How to add icons (badges):** Instead of plain text, insert image markup. Look up services like `shields.io` or `devicon` to generate badge URLs.  
-> 
-> *Example for Python:*  
-> `![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
