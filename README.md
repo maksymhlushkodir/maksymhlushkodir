@@ -6,8 +6,6 @@ I'm a **high school student** and a **self-taught programmer**. In my free timeâ
 
 ### ðŸ’» Technologies & Tools
 
-Consider using icons (badges) here for a visual effect.
-
 | Category | Technologies |
 | :--- | :--- |
 | **Main Languages** | Python, Java |
