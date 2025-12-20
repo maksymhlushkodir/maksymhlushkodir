@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maksym!
+# Hi, I'm Maksym!
 
 I'm a **high school student** and a **self-taught programmer**. In my free time—outside of school—I actively study programming and am taking my first steps into the world of software development.
 
