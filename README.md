@@ -4,7 +4,7 @@ I'm a **high school student** and a **self-taught programmer**. In my free time�
 
 ---
 
-### 💻 Technologies & Tools
+### Technologies & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -17,11 +17,11 @@ I'm a **high school student** and a **self-taught programmer**. In my free time�
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 
-### 🔭 What I'm Learning Now
+### What I'm Learning Now
 
 * **Python:** Deepening my knowledge of **OOP** (Object-Oriented Programming) and its practical applications.  
 * **Java:** Learning the fundamentals and syntax for future projects.
 
-### 🎯 My Goals
+### My Goals
 
 My goal is to master the programming languages I’ve chosen, build as many **interesting projects** as possible, and enjoy every line of code I write!
