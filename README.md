@@ -11,7 +11,7 @@ I'm a **high school student** and a **self-taught programmer**. In my free timeâ
 | **Main Languages** | Python, Java |
 | **Version Control** | Git |
 | **IDEs** | IntelliJ IDEA / PyCharm (JetBrains products) |
-| **OS** | Linux (Ubuntu) |
+| **OS** | Linux (Ubuntu) zsh|
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
